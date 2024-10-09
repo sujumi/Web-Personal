@@ -1,0 +1,68 @@
+.jumbotron {
+  padding: 2rem 2rem;
+  background-color: #89dfeb;
+}
+
+#gallery {
+  background-color: #2f3652;
+  background-size: cover;
+  padding: 2rem 0rem;
+}
+
+#gallery img {
+  max-width: 100%;
+  padding: 80px 0;
+}
+
+#text-gallery {
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4.5px);
+  -webkit-backdrop-filter: blur(4.5px);
+  border-radius: 10px;
+  text-align: center;
+  padding: 3rem;
+}
+
+#sosmed-part a {
+  text-decoration: none;
+  color: black;
+}
+
+#contactme {
+  background-color: #2f3652;
+  color: white;
+}
+
+.bi-github:hover {
+  color: black;
+}
+
+.bi-facebook:hover {
+  color: blue;
+}
+.bi-twitter:hover {
+  color: rgb(0, 153, 255);
+}
+.bi-instagram:hover {
+  color: rgb(255, 0, 0);
+}
+.bi-whatsapp:hover {
+  color: rgb(0, 255, 115);
+}
+
+section {
+  padding-top: 6rem;
+}
+
+#jumbotron {
+  padding-top: 4.5rem;
+}
+
+body {
+  scroll-behavior: smooth;
+}
+
+#gallery-modal .modal-img {
+  width: 100%;
+}
